@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SongAnalyzer",
+            "request": "launch",
+            "mainClass": "SongAnalyzer",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "PlayMidiAudio",
+            "request": "launch",
+            "mainClass": "PlayMidiAudio",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "JumpSong",
+            "request": "launch",
+            "mainClass": "JumpSong",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "MyMidiPlayer1",
+            "request": "launch",
+            "mainClass": "MyMidiPlayer1",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "MyMidiPlayer",
+            "request": "launch",
+            "mainClass": "MyMidiPlayer",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "SongJump",
+            "request": "launch",
+            "mainClass": "SongJump",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "Ass5Game",
+            "request": "launch",
+            "mainClass": "Ass5Game",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "Camera",
+            "request": "launch",
+            "mainClass": "Camera",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MovingDisplay",
+            "request": "launch",
+            "mainClass": "MovingDisplay",
+            "projectName": "songsterr_5fac7e33"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "${workspaceFolder}/MovingDisplay",
+            "args": "${command:SpecifyProgramArgs}"
+        }
+    ]
+}
